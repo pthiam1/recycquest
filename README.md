@@ -4,6 +4,8 @@
 
 RecycQuest est un jeu éducatif destiné aux enfants et aux adultes, conçu pour sensibiliser ces derniers au tri des déchets dans le cadre du développement durable. Cela va renforcer les comportements des joueurs envers l'environnement.
 
+![alt text](image.png)
+
 ## Fonctionnalités
 
 - **Tri des déchets** : Le joueur doit trier différents déchets dans les bonnes poubelles (déposer chaque déchet dans la poubelle correspondante).

@@ -90,12 +90,6 @@ export default class GameScene extends Phaser.Scene {
             fill: '#0000ff',
         }).setOrigin(0.5);
 
-        // Texte pour afficher les informations sur le déchet et la poubelle
-        this.infoText = this.add.text(this.cameras.main.centerX, 40, 'default', {
-            fontSize: '20px',
-            backgroundColor: '#000000',
-            fill: '#ffffff',
-        });
     }
 
     createDechetsGroup() {
