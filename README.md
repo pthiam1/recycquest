@@ -27,18 +27,11 @@ RecycQuest est un jeu éducatif destiné aux enfants et aux adultes, conçu pour
 - **Tableau** : pour stocker les informations sur les poubelles et les déchets
 - **Git** : pour la gestion du projet et le travail en équipe
 
-## Membres du groupe
-
-**Code Girls**
-- **Ndeye Fatou FALL**
-- **Elvire OLOGOUDOU**
-- **Mame Faty SECK**
-- **Melissa YESSAD**
 
 ## Installation
 
 
-git clone https://gitlab.univ-lr.fr/projets-l2-2024/code-girls/recycquest.git
+git clone https://github.com/pthiam1/recycquest.git
 cd recycquest
 
 
@@ -51,4 +44,6 @@ Les contributions sont les bienvenues. Veuillez suivre ces étapes pour contribu
 3. Poussez vers la branche (git push origin <nom de la branche >).
 4. Pour recuperer un fichier sur git (git pull).
 
+## Auteur 
+**THIAM PAPA**
 
